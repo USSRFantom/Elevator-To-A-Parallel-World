@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Elevator-To-A-Parallel-World</string>
+    <string name="app_name">Elevator To A Parallel World</string>
+    <string name="backgroundstart">backgroundStart</string>
+    <string name="start">Начать</string>
+    <string name="hints">Подсказки</string>
+    <string name="survivors">Выжившие</string>
+    <string name="info">О игре</string>
+    <string name="exit">Выход</string>
+
+
 </resources>
