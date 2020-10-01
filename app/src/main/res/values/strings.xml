@@ -6,6 +6,15 @@
     <string name="survivors">Выжившие</string>
     <string name="info">О игре</string>
     <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+
+    <string-array name="survivors">
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+        <item>Пусто</item>
+    </string-array>
 
 
 </resources>
