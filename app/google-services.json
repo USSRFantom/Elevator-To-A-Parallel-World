@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876367246654",
+    "firebase_url": "https://elevator-dc5de.firebaseio.com",
+    "project_id": "elevator-dc5de",
+    "storage_bucket": "elevator-dc5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876367246654:android:126347e27a9fdd3d7aa86f",
+        "android_client_info": {
+          "package_name": "ussrfantom.com.example.elevator_to_a_parallel_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876367246654-0mdf8aahja2529bqf5rq2mc4jqnt9np7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2qco1ubjvOOkoyI0B6S-kEBIUdMze2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876367246654-0mdf8aahja2529bqf5rq2mc4jqnt9np7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
